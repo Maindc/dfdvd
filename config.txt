@@ -1,0 +1,8 @@
+{
+  "name": "PirateStealer",
+  "version": "1.0.0",
+  "description": "",
+  "name": "Privado Discord",
+  "version": "1.0.0",
+  "description": "",
+}
